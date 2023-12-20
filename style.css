@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Indie+Flower&display=swap');
+
+.carousel-inner img {
+    height: 95vh;
+}
+
+/* .carousel-caption {
+    height: 45vh;
+} */
+
+
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+}
+
+.about-img img {
+    height: 16rem;
+}
+
+.bg-gray {
+    background-color: rgb(246, 238, 238) !important;
+}
+
+.nav-item a:hover {
+    color: rgb(97, 97, 230) !important;
+}
+
+footer{
+    margin-bottom: -20px;
+    height: 2.5rem;
+    background-color: rgb(58, 58, 225);
+}
